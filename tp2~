@@ -1,0 +1,16 @@
+Una consultora de la ciudad de Córdoba nos ha contratado para desarrollar un programa que gestione los recursos humanos. Para la implementación del mismo debes crear una clase persona contiene los siguientes atributos:
+
+nombre,
+dirección,
+teléfono
+ingreso mensual.
+Además una clase consultora la cual contiene un vector de objetos persona.
+
+El tamaño del vector ya está dado (ej 300 personas) pero se debe cargar de a una.
+
+El gerente necesita realizar las siguientes operaciones:
+
+Cargar el vector de objetos.
+Buscar una persona por el teléfono. Si es encontrado mostrar la dirección. En caso contrario, informar que no existe cliente con ese teléfono.
+Mostrar el nombre de aquellas personas que tengan un ingreso superior a $7.000 mensuales.
+El main debe mostrar un menú de opciones por medio del cual se deben poder realizar todas las operaciones antes mencionadas.

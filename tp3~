@@ -1,0 +1,15 @@
+Un productor de seguros desea informatizar su sistema de gestión.
+
+El mismo, cuenta con una lista de posibles seguros que tienen como características principales: "Compañia, tipo de seguro (hogar, viajes, auto, etc..), precio de venta, y porcentaje de ganancia para el productor"
+
+Ademas, tiene una cartera de clientes donde carga  los siguientes datos: "N° de Cliente, Apellido, Nombre, Dni, Dirección, Teléfono, Dirección de Mail, y por último el seguro elegido"
+
+Realizar el programa que:
+
+Permita cargar 5 seguros diferentes.
+Permita cargar los clientes. Cada cliente debe poder escoger mediante un menú alguno de los seguros anteriores.
+Genere un informe con:
+Monto total a cobrar
+Seguro mas vendido
+Seguro menos vendido
+Ganancia del productor

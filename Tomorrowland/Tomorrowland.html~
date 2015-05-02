@@ -1,0 +1,76 @@
+Que onda perro alto servidor
+============================
+
+
+<!doctype html>
+
+    <html style="background-image:url('/admin/storage/main/bg.jpg')"></html>
+
+<meta charset="utf-8">
+<title>Tomorrowland Brasil 2015</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700" rel="stylesheet">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]-->
+<link href="/assets/css/layout.css" rel="stylesheet">
+
+<meta property="og:title" content="Tomorrowland Brasil 2015">
+<meta property="og:site_name" content="Tomorrowland Brasil 2015">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://live.tomorrowlandbrasil.com/int/en">
+<meta property="og:description" content="Follow the Tomorrowland Brazil 2015 livestream.">
+<meta property="og:image" content="http://live.tomorrowlandbrasil.com/admin/storage/main/facebook-visual-custom.jpg">
+
+<body>
+<div id="timeline" class="over">
+    <div class="overlay"></div>
+    <div class="container">
+
+        <div class="days"></div>
+        <div><div class="stages"></div><div class="timeline"><div class="scroll"></div></div></div>
+    </div>
+</div>
+<div id="full_program" class="over">
+    <div class="overlay"></div>
+    <div class="container">
+        <div>
+            <div>
+
+
+                        </div>
+        </div>
+    </div>
+</div>
+
+
+
+        </a>
+            </nav>
+</header>
+<section>
+    <div class="player">
+        <div class="wrapper">
+            <div>
+                <div class="embed">
+                    <iframe width="100%" height="100%" src="http://iframe.nowlive.com/event/5536c89c08ac694d4ffe3bbd" frameborder=“0" allowfullscreen></iframe>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sponsor">
+    </div>
+
+<script>
+    window.config = {"base":"\/","storage":"admin\/","socket_io":"http:\/\/nodejs.tomorrowlandbrasil.com:80","banner_mobile":"<!-- Async Tag \/\/ Tag for network 5478: Viggle SFX \/\/ Website: TomorrowLand Brazil \/\/ Page: Live Stream \/\/ Placement: Live Stream 300x250 - Brazil Mobile (3524817) \/\/ created at: May 1, 2015 11:33:10 AM -->\n<script type=\"text\/javascript\" src=\"http:\/\/aka-cdn-ns.adtechus.com\/dt\/common\/DAC.js\"><\/script>\n<div id=\"3524817\"><noscript><a href=\"http:\/\/a.adtechus.com\/adlink|3.0|5478.1|3524817|0|0|ADTECH;loc=300;key=key1+key2+key3+key4;alias=livestream_brazil_mobile_300x250\" target=\"_blank\"><img src=\"http:\/\/a.adtechus.com\/adserv|3.0|5478.1|3524817|0|0|ADTECH;loc=300;key=key1+key2+key3+key4;alias=livestream_brazil_mobile_300x250\" border=\"0\" width=\"0\" height=\"0\"><\/a><\/noscript><\/div>\n<script>\nADTECH.config.page = { protocol: 'http', server: 'a.adtechus.com', network: '5478.1', pageid: 757212, params: { loc: '100' }};\nADTECH.config.placements[3524817] = { sizeid: 0, params: { alias: 'livestream_brazil_mobile_300x250', target: '_blank' }};\nADTECH.loadAd(3524817);\n<\/script>","banner":"<!-- Async Tag \/\/ Tag for network 5478: Viggle SFX \/\/ Website: TomorrowLand Brazil \/\/ Page: Live Stream \/\/ Placement: Live Stream 728x90 - Brazil Desktop (3524819) \/\/ created at: Apr 10, 2015 9:16:26 AM -->\n<script type=\"text\/javascript\" src=\"http:\/\/aka-cdn-ns.adtechus.com\/dt\/common\/DAC.js\"><\/script>\n<div id=\"3524819\"><noscript><a href=\"http:\/\/adserver.adtechus.com\/adlink|3.0|5478.1|3524819|0|0|ADTECH;loc=300;key=key1+key2+key3+key4;alias=\" target=\"_blank\"><img src=\"http:\/\/adserver.adtechus.com\/adserv|3.0|5478.1|3524819|0|0|ADTECH;loc=300;key=key1+key2+key3+key4;alias=\" border=\"0\" width=\"0\" height=\"0\"><\/a><\/noscript><\/div>\n<script>\nADTECH.config.page = { protocol: 'http', server: 'adserver.adtechus.com', network: '5478.1', pageid: 757212, params: { loc: '100' }};\nADTECH.config.placements[3524819] = { sizeid: 0, params: { alias: '', target: '_blank' }};\nADTECH.loadAd(3524819);\n<\/script>","intro_img":"","intro_gif":"","intro_time":0}</script>
+<script src="/assets/js/client.js"></script>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:600,700" rel="stylesheet">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37589046-6', 'auto');
+    ga('send', 'pageview');
+</script>
+
+
